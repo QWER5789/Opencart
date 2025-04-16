@@ -1,0 +1,10 @@
+21:19:27.767 [main] INFO  testCases.TC002_LoginTest  -   Clicked on Login link 
+21:19:35.052 [main] INFO  testCases.TC002_LoginTest  -   ***** Finsihed TC002_LoginTest  ***** 
+21:34:24.289 [main] INFO  testCases.TC002_LoginTest  -   ***** Starting TC002_LoginTest  ***** 
+21:34:27.326 [main] INFO  testCases.TC002_LoginTest  -   Clicked on My Account link 
+21:34:30.450 [main] INFO  testCases.TC002_LoginTest  -   Clicked on Login link 
+21:34:37.059 [main] INFO  testCases.TC002_LoginTest  -   ***** Finsihed TC002_LoginTest  ***** 
+21:43:48.170 [main] INFO  testCases.TC002_LoginTest  -   ***** Starting TC002_LoginTest  ***** 
+21:43:51.216 [main] INFO  testCases.TC002_LoginTest  -   Clicked on My Account link 
+21:43:54.353 [main] INFO  testCases.TC002_LoginTest  -   Clicked on Login link 
+21:44:01.028 [main] INFO  testCases.TC002_LoginTest  -   ***** Finsihed TC002_LoginTest  ***** 
